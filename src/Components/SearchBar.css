@@ -1,0 +1,7 @@
+.inputField {
+  width: 50% !important;
+}
+.field {
+  display: flex;
+  justify-content: center;
+}
